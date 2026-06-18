@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sports Meet - Results Management System
 
 A full-stack web application for managing and displaying sports meet results.
@@ -42,3 +43,7 @@ npm run dev
 - View Gold, Silver, Bronze winners
 - Admin panel for managing events and results
 - JWT-based admin authentication
+=======
+# Sports-meet
+Blue Star Sports Club
+>>>>>>> 47b2a845c9dd28a69d984ab5a0ef66657d696deb
